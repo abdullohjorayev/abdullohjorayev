@@ -9,7 +9,7 @@
 <img src="https://comp-pro.ru/wp-content/uploads/5/f/1/5f1fedfe65e2dbaa38414dd184e825b5.png" alt="Udemy" width="21px" height="21px"> - `Udemy`  |
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1280px-YouTube_full-color_icon_%282017%29.svg.png" alt="Youtube" width="21px" height="21px"> - `Youtube`
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=developerabdulloh&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullohjorayev&show_icons=true&theme=dracula)
 
 
-Email: `saud_abdulloh@mail.ru`
+Email: `abdullohjorayev@mail.ru`
